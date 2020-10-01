@@ -38,3 +38,5 @@ After a vehicle is spawned, the mod doesn't try to track its state. But you can 
 
 ## Important note:
 The mod largely depends on the license plate number to identify vehicles, so if you mess with these values or set them all to the same, you'll experience some bugs.
+
+Also, please do note that I haven't played GTA V that much. I tested the mod with normal cars, and it seemed stable. But given the complexity of the game I can't exclude the possiblity that I'm completely unaware of certain aspects of persistence when it comes to tanks, planes, etc. Feel free to let me know if you experience any issues or shortcomings.
