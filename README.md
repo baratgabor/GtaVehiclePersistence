@@ -31,5 +31,10 @@ The mod simply reacts to certain keys and key combinations on the numerical pad 
 
 After a vehicle is spawned, the mod doesn't try to track its state. But you can update the saved state of the vehicle any time by pressing NumPad * again.
 
+## Use:
+- Install [ScriptHookVDotnet](https://github.com/crosire/scripthookvdotnet/releases)
+- Place the dll files ([see releases](https://github.com/baratgabor/GtaVehiclePersistence/releases/)) into the mod folder
+- The mod should automatically load upon starting the game
+
 ## Important note:
 The mod largely depends on the license plate number to identify vehicles, so if you mess with these values or set them all to the same, you'll experience some bugs.
