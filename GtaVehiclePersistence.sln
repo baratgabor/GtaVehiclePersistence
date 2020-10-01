@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtaVehiclePersistence", "GtaVehiclePersistence.csproj", "{13B3E253-5D1B-4292-991F-86FE48247B5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRunner", "..\ConsoleRunner\ConsoleRunner.csproj", "{80A1DB83-0F31-4C42-911F-B121DD53A641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B3E253-5D1B-4292-991F-86FE48247B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B3E253-5D1B-4292-991F-86FE48247B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B3E253-5D1B-4292-991F-86FE48247B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B3E253-5D1B-4292-991F-86FE48247B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A1DB83-0F31-4C42-911F-B121DD53A641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A1DB83-0F31-4C42-911F-B121DD53A641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A1DB83-0F31-4C42-911F-B121DD53A641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A1DB83-0F31-4C42-911F-B121DD53A641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AE6FDC-AA3B-466D-9266-1552C8D582F7}
+	EndGlobalSection
+EndGlobal
